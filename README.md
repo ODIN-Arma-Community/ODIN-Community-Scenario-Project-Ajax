@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>ODIN Community Scenario Project - Ajax</h1>
+  <h1>ODIN Community Scenario: Project Ajax</h1>
 
 <p align="center">
   <!-- Main Status Badge (Large) -->
@@ -12,7 +12,7 @@
 
 
  ## 📑 About the Mode ❓
-"Project AJAX" is a highly determinated project that focuses dynamic, open-world game mode for Arma Reforger that combines mission variety, civilian interaction, and player-driven consequences.<br><br>
+"Project Ajax" is a highly determinated project that focuses dynamic, open-world game mode for Arma Reforger that combines mission variety, civilian interaction, and player-driven consequences.<br><br>
 
 
 Players take on evolving objectives, build and operate from forward bases, and influence the world around them. It also included a civilian reputation which will change how the missions unfolds.<br>
