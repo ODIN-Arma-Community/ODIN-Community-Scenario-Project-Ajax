@@ -22,4 +22,4 @@ Inspired by classics like Invade & Annex, COE2, Freedom Fighters, and Hearts and
 <br>
 <br>
 
-## ***Please Note:** *This Mode in Heavily Work In Progress**
+## ***Please Note:** *This Mode in Heavily Work is in Progress**
