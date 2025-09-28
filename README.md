@@ -11,7 +11,7 @@
 </p>
 
 
-📑 ## About the Mode ❓📑
+ ## 📑 About the Mode ❓
 "Project AJAX" is a highly determinated project that focuses dynamic, open-world game mode for Arma Reforger that combines mission variety, civilian interaction, and player-driven consequences.<br><br>
 
 
