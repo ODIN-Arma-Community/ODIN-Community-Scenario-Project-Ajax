@@ -1,0 +1,4 @@
+SCR_DestructibleBuildingEntity : "{CEB1F71D46592F3C}Prefabs/Structures/Airport/Hangar_01/Hangar_01.et" {
+ coords 4881.212 0.08 11917.344
+ angleY 90
+}
