@@ -1,8 +1,22 @@
 GameProject {
  ID "ProjectAjax"
  GUID "668A289A0A9FE7F2"
- TITLE "Project Ajax"
+ TITLE "ODIN Project Ajax"
  Dependencies {
   "628EDA2ABC937159" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
