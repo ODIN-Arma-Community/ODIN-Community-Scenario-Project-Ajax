@@ -4,10 +4,10 @@
 <p align="center">
   <!-- Main Status Badge (Large) -->
   <img src="https://img.shields.io/badge/Status-In%20Development-blue?labelColor=000000&style=for-the-badge"><br><br>
-  <!-- Discord and Team Badges (Small -->
+  <img src="https://img.shields.io/badge/DEV%20TEAM-ODIN%20DEV%20TEAM-06c200?labelColor=ad1000" height="20">
+  <!-- Discord and Team Badges (Small) -->
   <a href="https://discord.gg/J7tr6pYn4p">
     <img src="https://img.shields.io/badge/DISCORD-ODIN%20ARMA%20COMMUNITY-11806a?labelColor=ad1000" height="20">
-   <img src="https://img.shields.io/badge/DEV%20TEAM-ODIN%20DEV%20TEAM-06c200?labelColor=ad1000" height="20">
 </p>
 
 
